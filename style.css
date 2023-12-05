@@ -2,16 +2,6 @@
     box-sizing: border-box;
 }
 
-@font-face {
-    font-family: 'Lato';
-    src: url(/fonts/Lato-Regular.ttf);
-}
-
-@font-face {
-    font-family: 'Poppins';
-    src: url(/fonts/Poppins-Regular.ttf);
-}
-
 body {
     background-color: #F2F5F9;
     height: 100vh;
